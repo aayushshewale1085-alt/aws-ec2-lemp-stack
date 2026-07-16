@@ -94,6 +94,11 @@ Configuration:
 ---
 
 ### Screenshot
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9518edc4-af19-4e71-80b4-341630baea11"
+       alt="Security Group"
+       width="900">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/292755be-3290-4c42-adf2-821a14dfde72"
@@ -101,11 +106,6 @@ Configuration:
        width="900">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9518edc4-af19-4e71-80b4-341630baea11"
-       alt="Security Group"
-       width="900">
-</p>
 
 ---
 
