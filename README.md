@@ -119,10 +119,9 @@ ssh -i your-key.pem ubuntu@Public-IP
 
 ### Screenshot
 
-```
-<img width="900" height="736" alt="Screenshot 2026-07-16 204835" src="https://github.com/user-attachments/assets/d4bc343b-4516-4374-bac5-d98d7635e176" />
-
-```
+<p align="center">
+  <img width="900" height="736" alt="Screenshot 2026-07-16 204835" src="https://github.com/user-attachments/assets/d4bc343b-4516-4374-bac5-d98d7635e176">
+</p>
 
 ---
 
@@ -360,11 +359,6 @@ This configuration allows Nginx to process PHP files using PHP-FPM while serving
 
 ---
 
-### Screenshot
-
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -456,9 +450,9 @@ SELECT * FROM contact;
 
 ### Screenshot
 
-```
-<img width="900" height="645" alt="Screenshot 2026-07-16 193115" src="https://github.com/user-attachments/assets/851d659d-95f8-423b-a2e5-23349bc49599" />
-```
+<p align="center">
+  <img width="900" height="645" alt="Screenshot 2026-07-16 193115" src="https://github.com/user-attachments/assets/851d659d-95f8-423b-a2e5-23349bc49599">
+</p>
 
 ---
 
@@ -487,9 +481,9 @@ SELECT * FROM contact;
 
 ## MySQL Database
 
-```
-<img width="900" height="645" alt="Screenshot 2026-07-16 193115" src="https://github.com/user-attachments/assets/851d659d-95f8-423b-a2e5-23349bc49599" />
-```
+<p align="center">
+  <img width="900" height="645" alt="Screenshot 2026-07-16 193115" src="https://github.com/user-attachments/assets/851d659d-95f8-423b-a2e5-23349bc49599">
+</p>
 
 ---
 
