@@ -95,8 +95,17 @@ Configuration:
 ### Screenshot
 
 ```
-<img width="900" height="600" alt="Screenshot 2026-07-16 194409" src="https://github.com/user-attachments/assets/292755be-3290-4c42-adf2-821a14dfde72" />
-<img width="900" height="600" alt="Screenshot 2026-07-16 194251" src="https://github.com/user-attachments/assets/9518edc4-af19-4e71-80b4-341630baea11" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/292755be-3290-4c42-adf2-821a14dfde72"
+       alt="EC2 Instance"
+       width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9518edc4-af19-4e71-80b4-341630baea11"
+       alt="Security Group"
+       width="900">
+</p>
 
 ```
 
@@ -510,8 +519,11 @@ Add Screenshot Here
 ## Contact Form
 
 ```
-<img width="1917" height="972" alt="Screenshot 2026-07-16 192629" src="https://github.com/user-attachments/assets/2e265c3e-8ffb-4457-a662-cb91b156815d" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e265c3e-8ffb-4457-a662-cb91b156815d"
+       alt="Screenshot 2026-07-16 192629"
+       width="900">
+</p>
 ```
 
 ---
@@ -519,7 +531,11 @@ Add Screenshot Here
 ## Success Page
 
 ```
-<img width="900" height="600" alt="Screenshot 2026-07-16 192713" src="https://github.com/user-attachments/assets/d1188019-a949-40f5-a7ca-cf015628b7cd" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d1188019-a949-40f5-a7ca-cf015628b7cd"
+       alt="EC2 Instance Configuration"
+       width="900">
+</p>
 
 ```
 
