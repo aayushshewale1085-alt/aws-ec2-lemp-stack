@@ -120,7 +120,8 @@ ssh -i your-key.pem ubuntu@Public-IP
 ### Screenshot
 
 ```
-Add Screenshot Here
+<img width="900" height="736" alt="Screenshot 2026-07-16 204835" src="https://github.com/user-attachments/assets/d4bc343b-4516-4374-bac5-d98d7635e176" />
+
 ```
 
 ---
