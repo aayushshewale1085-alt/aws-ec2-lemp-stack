@@ -81,6 +81,7 @@ Configuration:
 - 8 GB Storage
 
 ---
+---
 
 ### Security Group
 
@@ -94,7 +95,6 @@ Configuration:
 
 ### Screenshot
 
-```
 <p align="center">
   <img src="https://github.com/user-attachments/assets/292755be-3290-4c42-adf2-821a14dfde72"
        alt="EC2 Instance"
@@ -106,8 +106,6 @@ Configuration:
        alt="Security Group"
        width="900">
 </p>
-
-```
 
 ---
 
@@ -480,10 +478,9 @@ Send Message
 
 ### Screenshot
 
-```
-<img width="900" height="600" alt="Screenshot 2026-07-16 192629" src="https://github.com/user-attachments/assets/b72cac1a-6aa0-42d8-8b3f-26b50125d181" />
-
-```
+<p align="center">
+  <img width="900" height="600" alt="Screenshot 2026-07-16 192629" src="https://github.com/user-attachments/assets/b72cac1a-6aa0-42d8-8b3f-26b50125d181">
+</p>
 
 
 
@@ -518,26 +515,21 @@ Add Screenshot Here
 
 ## Contact Form
 
-```
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2e265c3e-8ffb-4457-a662-cb91b156815d"
        alt="Screenshot 2026-07-16 192629"
        width="900">
 </p>
-```
 
 ---
 
 ## Success Page
 
-```
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1188019-a949-40f5-a7ca-cf015628b7cd"
        alt="EC2 Instance Configuration"
        width="900">
 </p>
-
-```
 
 ---
 
