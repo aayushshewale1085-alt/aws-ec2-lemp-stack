@@ -136,11 +136,7 @@ sudo apt upgrade -y
 
 ---
 
-### Screenshot
 
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -166,12 +162,6 @@ sudo systemctl status nginx
 
 ---
 
-### Screenshot
-
-```
-Add Screenshot Here
-```
-
 ---
 
 # 🚀 Step 5: Install MySQL
@@ -188,11 +178,7 @@ sudo systemctl status mysql
 
 ---
 
-### Screenshot
 
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -212,11 +198,6 @@ CREATE DATABASE portfolio;
 
 ---
 
-### Screenshot
-
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -234,11 +215,6 @@ FLUSH PRIVILEGES;
 
 ---
 
-### Screenshot
-
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -264,11 +240,6 @@ created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 
 ---
 
-### Screenshot
-
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -286,11 +257,6 @@ php -v
 
 ---
 
-### Screenshot
-
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -308,11 +274,6 @@ cd project
 
 ---
 
-### Screenshot
-
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -330,11 +291,6 @@ db.php
 
 ---
 
-### Screenshot
-
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -355,11 +311,6 @@ Update
 
 ---
 
-### Screenshot
-
-```
-Add Screenshot Here
-```
 
 ---
 
@@ -506,7 +457,7 @@ SELECT * FROM contact;
 ### Screenshot
 
 ```
-Add Screenshot Here
+<img width="900" height="645" alt="Screenshot 2026-07-16 193115" src="https://github.com/user-attachments/assets/851d659d-95f8-423b-a2e5-23349bc49599" />
 ```
 
 ---
@@ -537,7 +488,7 @@ Add Screenshot Here
 ## MySQL Database
 
 ```
-Add Screenshot Here
+<img width="900" height="645" alt="Screenshot 2026-07-16 193115" src="https://github.com/user-attachments/assets/851d659d-95f8-423b-a2e5-23349bc49599" />
 ```
 
 ---
