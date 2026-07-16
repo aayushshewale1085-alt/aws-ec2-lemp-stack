@@ -556,10 +556,14 @@ Add Screenshot Here
 
 # 👨‍💻 Author
 
-**Aayush Shewale**
+Aayush Shewale
 
 Cloud & DevOps Enthusiast
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/aayushshewale1085-alt
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/aayush-shewale-4b194732b/
+
+⭐ If you found this project useful
+
+Give this repository a ⭐ on GitHub.
